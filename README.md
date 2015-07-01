@@ -9,7 +9,7 @@ I'll be posting  some tutorials here in the future. Watch this space.
 I'm always looking for game testers. Let me know if you're interested and you'll get early access to games!
 
 ## Contact Me
-Twitter @RisingPhoenixGM
-LinkedIn
+<p>Twitter @RisingPhoenixGM</br>
+LinkedIn</p>
 
 
